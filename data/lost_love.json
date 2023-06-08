@@ -103,6 +103,12 @@
             "percent": 100,
             "hz": 90,
             "mobile": true
+},
+        {
+            "user": "thirtytwenty",
+            "link": "https://youtu.be/hk0DToLXGcU",
+            "percent": 100,
+            "hz": 360
 }
 ]
 }
