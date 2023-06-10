@@ -73,6 +73,12 @@
             "link": "www.youtube.com/watch?v=oF5yIojEyvY",
             "percent": 100,
             "hz": 240
+},
+        {
+            "user": "LuckyNS",
+            "link": "https://youtu.be/NSycHwt2OjI",
+            "percent": 100,
+            "hz": 60
 }
     ]
 }
